@@ -11,4 +11,4 @@ There are 2 methods to install libraries. Lets assume you are using Anacanda3 to
 https://www.continuum.io/downloads
 <br>
 <br>
-# **Method 1** 
+## ** Method 1 ** 
