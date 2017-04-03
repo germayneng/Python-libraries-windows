@@ -21,4 +21,15 @@ e.g pip install fuzzywuzzy (for fuzzy library )
 ## **Method 2** 
 If for some reason, you are getting an error that the library cannot be installed or wheel not found, we will have to use this method. 
 <br> 
-
+1) Go to: http://www.lfd.uci.edu/~gohlke/pythonlibs/ 
+2) Locate the library wheel (.whl) file you need. Download the version you need (if you are unsure, you can just try each) 
+3) Put the .whl file on your desktop 
+4) Open cmd (if your window user is not the admin, right-click start as admin)
+5) type :cd to your desktop directory 
+<br>
+e.g >  cd C\User\Germ\Desktop
+6) type: pip install wheelfilename.whl 
+<br>
+> pip install XXXXXXXXXXXXXXXXX.whl 
+<br>
+for the wheel file name, just copy the entire file name and right click paste 
