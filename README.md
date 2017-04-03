@@ -28,6 +28,7 @@ If for some reason, you are getting an error that the library cannot be installe
 5) type :cd to your desktop directory 
 <br>
 e.g >  cd C\User\Germ\Desktop
+<br>
 6) type: pip install wheelfilename.whl 
 <br>
 > pip install XXXXXXXXXXXXXXXXX.whl 
