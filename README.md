@@ -12,3 +12,13 @@ https://www.continuum.io/downloads
 <br>
 <br>
 ## **Method 1** 
+1) Open anaconda prompt (if your window user is not the admin, right-click start as admin) 
+2) pip install XXXX (for the libraries, you can do a search to find what is the command in their github) 
+<br> 
+e.g pip install fuzzywuzzy (for fuzzy library ) 
+    pip install pandas 
+    
+## **Method 2** 
+If for some reason, you are getting an error that the library cannot be installed or wheel not found, we will have to use this method. 
+<br> 
+
