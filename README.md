@@ -9,3 +9,6 @@ Think of python libraries as R's packages. We are using many of the functions/ m
 There are 2 methods to install libraries. Lets assume you are using Anacanda3 to install your python 
 <br> 
 https://www.continuum.io/downloads
+<br>
+<br>
+# **Method 1** 
